@@ -1,0 +1,52 @@
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe.config
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csprojAssemblyReference.cache
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.FaceRecognitionSystem.resources
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Properties.Resources.resources
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.GenerateResource.cache
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CopyComplete
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.exe
+D:\ASP.NET Projects\Windows\KSLR_R_FaceRecognitionsSystem\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe.config
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csprojAssemblyReference.cache
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.FaceRecognitionSystem.resources
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Properties.Resources.resources
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.GenerateResource.cache
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CoreCompileInputs.cache
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CopyComplete
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.exe
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\MySqlConnector.dll
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Buffers.dll
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Memory.dll
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\MySqlConnector.xml
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Buffers.xml
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Memory.xml
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HocTap\NNLT_Cshap\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.FormChiTietDiemDanh.resources
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe.config
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\bin\Debug\MySqlConnector.xml
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Buffers.xml
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Memory.xml
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.xml
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csprojAssemblyReference.cache
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.FaceRecognitionSystem.resources
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.FormChiTietDiemDanh.resources
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Properties.Resources.resources
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.GenerateResource.cache
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CoreCompileInputs.cache
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.csproj.CopyComplete
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.exe
+L:\C#\DAC#\KSLR_R_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.pdb
